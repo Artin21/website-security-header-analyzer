@@ -23,7 +23,7 @@ def test_neverssl():
     print(f"[NeverSSL] Rating: {result['rating']}")
 
 if __name__ == "__main__":
-    print("Kör tester...")
+    print("Kör tester..")
     test_google()
     test_example()
     test_neverssl()
