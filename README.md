@@ -1,6 +1,6 @@
 # Website Security Header Analyzer
 
-Ett verktyg för att analysera säkerhetsrelaterade HTTP-headrar på webbplatser. Verktyget är byggt i Python och använder Streamlit för ett enkelt användargränssnitt .
+Ett verktyg för att analysera säkerhetsrelaterade HTTP-headrar på webbplatser. Verktyget är byggt i Python och använder Streamlit för ett enkelt användargränssnitt.
 
 ## Vad som analyseras:
 
