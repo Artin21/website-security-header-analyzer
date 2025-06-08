@@ -24,7 +24,7 @@ def analyze_headers(url):
                 missing.append(header)
 
         # Klassificering
-        if len(missing) == 0:
+        if len(missing) ==0:
             rating = "Säker"
         elif len(missing) <= 2:
             rating = "Varning"
