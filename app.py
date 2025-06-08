@@ -7,7 +7,7 @@ st.set_page_config(page_title="Website Security Header Analyzer")
 st.title("Website Security Header Analyzer")
 st.write("Analyserar vanliga säkerhetsheadrar i HTTP-responsen.")
 
-url = st.text_input("Skriv in en URL (inkl. https://)", "https://example.com")
+url =st.text_input("Skriv in en URL (inkl. https://)", "https://example.com")
 
 if st.button("Analysera"):
     with st.spinner("Hämtar och analyserar headers..."):
